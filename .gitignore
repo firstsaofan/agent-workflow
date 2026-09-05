@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ZCode
+.zcode/
+
+# 测试文件
+PLAN.md
+BUG-BOARD.md
+
+# 旧版本（已弃用）
+agent-workflow-portable/
+
+# 需求文档（不需要提交）
+agent需求本身/
+
+# OS 生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.log
+
+# 视频字幕文件
+*.srt
